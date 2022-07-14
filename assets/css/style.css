@@ -1,0 +1,62 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.background_green{
+    background-color: #28A745;
+}
+
+.style_button{
+    background-color: #F8F9FA;
+    border-color: #DDDDDD;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+.roboto_medium{
+    font-weight: 500;
+}
+
+.roboto_light{
+    font-weight: 300;
+}
+
+.grey_deep{
+    color: #212529;
+}
+
+.grey_light{
+    color: #707070;
+}
+
+.green{
+    color: #28A745;
+}
+
+.tweenty_pt{
+    font-size: 20pt;
+}
+
+.tweentyone_pt{
+    font-size: 21pt;
+}
+
+.sixteen_pt{
+    font-size: 16pt;
+}
+
+.thirteen_pt{
+    font-size: 13pt;
+}
+
+.align_right{
+    text-align: right;
+}
+
+.white{
+    color: white;
+}
+
+.center{
+    text-align: center;
+}
